@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://ibb.co/H7mLDNF"><img src="https://i.ibb.co/SNqDXQs/PFP-Astronaut.png" alt="PFP-Astronaut" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/v4P191S/PFP-Astronaut.png" alt="PFP-Astronaut" border="0"></a>
 
 <!--
 **CDX-1/CDX-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
