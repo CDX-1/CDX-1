@@ -44,3 +44,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="17" height="17"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="17" height="17"/>
 </div>
+<h2>🔥 My Github Stats</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CDX-1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDX-1&layout=compact&theme=vision-friendly-dark"/>
