@@ -17,7 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=CDX-1&style=flat-square&color=blue" alt=""/>
 <div id="details">
 <h1>Hey, I'm CDX!</h1>
-<h3>I'm a developer who's tryna make it big</h3>
+<h3>I like games and programming.</h3>
 </div>
 </div>
 
@@ -27,7 +27,7 @@
   🎮 I'm a <b>gamer</b>!<br>
   🏫 Currently a <b>student</b>!
   <h2>💻 Technologies</h2>
-  <b>Languages:</b>
+  <b>Languages:</b><br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="17" height="17"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="17" height="17"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="17" height="17"/>
@@ -35,15 +35,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="17" height="17"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" alt="Lua" width="17" height="17"/>
   <br>
-  <b>Preferred Software:</b>
+  <b>Preferred Software:</b><br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Opera" alt="Opera" width="17" height="17"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="17" height="17"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="17" height="17"/>
   <br>
-  <b>Technologies:</b>
+  <b>Technologies:</b><br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="17" height="17"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="17" height="17"/>
 </div>
 <h2>🔥 My Github Stats</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CDX-1"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDX-1&layout=compact&theme=vision-friendly-dark"/>
