@@ -15,4 +15,8 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=CDX-1&style=flat-square&color=blue" alt=""/>
+<div id="details">
+<h1>Hey, I'm CDX!</h1>
+<h3>I'm a developer who's tryna make it big</h3>
+</div>
 </div>
