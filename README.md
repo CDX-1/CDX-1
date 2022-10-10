@@ -46,3 +46,5 @@
 </div>
 <h2>🔥 My Github Stats</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CDX-1"/>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CDX-1&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
