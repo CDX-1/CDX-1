@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/CDXWasTaken-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
     <a href="https://stackoverflow.com/users/20163481/cdx">
-    <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=Stackoverflow&logoColor=white" alt="Stackoverflow"/>
+    <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=CDX&logoColor=white" alt="Stackoverflow"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=CDX-1&style=flat-square&color=blue" alt=""/>
