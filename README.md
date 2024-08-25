@@ -16,4 +16,4 @@ Developer @ [Occulto Studios](https://github.com/OccultoStudios) <br>
 ## Things I've Made
 
 - [Minehut Server Dumper](https://github.com/CDX-1/MinehutServerDump), dump a Minehut server's information using Minehut's API to a file with a simple CLI
-- [Ambience]9https://github.com/Dice-Roll-Studios/Ambience), ROBLOX Studio plugin for accessing and applying lighting configurations from a catalogue
+- [Ambience](https://github.com/Dice-Roll-Studios/Ambience), ROBLOX Studio plugin for accessing and applying lighting configurations from a catalogue
